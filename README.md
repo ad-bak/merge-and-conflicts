@@ -1,2 +1,2 @@
-# merge-and-conflicts
+LOCAL
 added a few words of text
