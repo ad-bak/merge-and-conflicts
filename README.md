@@ -1,2 +1,2 @@
-# merge-and-conflicts
+REMOTE
 added a few words of text
